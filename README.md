@@ -8,4 +8,5 @@ This is a companion respository for my [personal github page](sundarganesh21.git
 ## Projects
 1. [Mean Reversion for FX Trading - Part 1](project1_fx_mean_reversion)
 2. [Mean Reversion for FX Trading - Part 2](project2_fx_mean_reversion_part2)
-3. [K-Means Clustering for Analysing Candle Data](project3_k_means_candles)
+3. [Cointegration and Pairs Trading](project3_fx_pairs_trading)
+4. [K-Means Clustering for Analysing Candle Data](project3_k_means_candles)
